@@ -32,9 +32,9 @@
     <br>
     🎓 I graduated from Bursa Cinar Anatolian High School
     <br>
-    💻 I love writing code and learn anythings about it
+    💻 I love writing code and learn anything about it
     <br>
-    💬 Ask me anything about from <a href="https://github.com/onurcansevinc/onurcansevinc/issues" title="Issues">Here</a>
+    💬 Ask me anything about from <a href="https://github.com/onurcansevinc/onurcansevinc/issues" title="Issues">here</a>
     <br>
     📫 How to reach me: <a href="mailto: onurcansevinc@yandex.com">onurcansevinc@yandex.com</a>
 </p>
