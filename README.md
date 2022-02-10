@@ -3,7 +3,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Onur+Can.;Nice+to+meet+you!&center=true&size=30">
+            src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Onurcan.;Nice+to+meet+you!&center=true&size=30">
     </a>
 </h1>
 
@@ -23,7 +23,7 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm Onur Can Sevinc, Frontend & Backend Developer from Turkey
+    Hi, I'm Onurcan Sevinc, Frontend & Backend Developer from Turkey
     <br>
     <br>
     🔬 I completed my undergraduate education at Sakarya University, Department of Metallurgical and Materials Engineering.
