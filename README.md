@@ -36,7 +36,7 @@
     <br>
     💬 Ask me anything about from <a href="https://github.com/onurcansevinc/onurcansevinc/issues" title="Issues">here</a>
     <br>
-    📫 How to reach me: <a href="mailto: onurcansevinc@yandex.com">onurcansevinc@yandex.com</a>
+    📫 How to reach me: <a href="mailto: me@onurcansevinc.com">me@onurcansevinc.com</a>
 </p>
 
 <hr>
