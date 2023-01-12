@@ -20,10 +20,6 @@
         <a href="https://www.instagram.com/onurcan.sevinc/" title="Instagram Profile">
         <img width="22" src="https://github.com/onurcansevinc/onurcansevinc/blob/main/images/instagram.svg">Instagram</a>
     </code>
-    <code>
-        <a href="https://www.buymeacoffee.com/onurcansevinc">
-            <img src="https://img.buymeacoffee.com/button-api/?text=&emoji=&slug=onurcansevinc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-    </code>
 </h5>
 <br>
 <p align="center">
