@@ -7,20 +7,6 @@
     </a>
 </h1>
 
-<h5 align="center">
-    <code>
-        <a href="https://www.linkedin.com/in/onur-can-sevin%C3%A7-368a30171/" title="LinkedIn Profile">
-        <img width="22" src="https://github.com/onurcansevinc/onurcansevinc/blob/main/images/linkedin.svg">LinkedIn</a>
-    </code>
-    <code>
-        <a href="https://discord.com/" title="Discord">
-        <img width="22" src="https://github.com/onurcansevinc/onurcansevinc/blob/main/images/discord.svg"> Discord ID: mf* #4982</a>
-    </code>
-    <code>
-        <a href="https://www.instagram.com/onurcan.sevinc/" title="Instagram Profile">
-        <img width="22" src="https://github.com/onurcansevinc/onurcansevinc/blob/main/images/instagram.svg">Instagram</a>
-    </code>
-</h5>
 <br>
 <p align="center">
     Hi, I'm Onurcan Sevinc, Frontend & Backend Developer from Turkey
