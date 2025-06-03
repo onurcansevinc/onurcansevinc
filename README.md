@@ -6,21 +6,33 @@
 
 ---
 
-<p align="center">
-  Hi, I'm <strong>Onurcan Sevinç</strong>, a Full-Stack Developer from Turkey.
-<br>
-I design and build scalable web applications and automation tools using Node.js, Vue.js, and MongoDB.
-<br>
-<br>
-🎓 I graduated from Sakarya University with a degree in Metallurgical and Materials Engineering.
-<br>
-🎒 Also studied at Bursa Cinar Anatolian High School.
-<br>
-💻 I'm passionate about coding and always eager to learn new technologies.
-<br>
-📫 Reach me at: <a href="mailto:me@onurcansevinc.com">me@onurcansevinc.com</a>
+<h1 align="center">Hi 👋, I'm Onurcan Sevinc</h1>
+<h3 align="center">Full-Stack Developer | Node.js Enthusiast | Problem Solver</h3>
 
+<p align="center">
+  Passionate about building efficient, scalable web apps and automation tools with modern technologies.
 </p>
+
+---
+
+### 🛠️ Tech Stack
+
+-   **Backend:** Node.js, Express.js, NestJS
+-   **Frontend:** Vue.js, Nuxt, HTML5, CSS3
+-   **Database:** MongoDB, PostgreSQL
+-   **Tools & DevOps:** Git, Docker, Redis, Nginx
+-   **Others:** RESTful APIs, Microservices, WebSockets
+
+---
+
+### 📫 Let's Connect
+
+-   📩 Email: [me@onurcansevinc.com](mailto:me@onurcansevinc.com)
+-   💼 LinkedIn: [linkedin.com/in/onurcansevinc](https://www.linkedin.com/in/onurcansevinc)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
