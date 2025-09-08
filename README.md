@@ -27,7 +27,7 @@
 
 ### 📫 Let's Connect
 
--   📩 Email: [me@onurcansevinc.com](mailto:me@onurcansevinc.com)
+-   📩 Email: [me[at]onurcansevinc.com](mailto:me@onurcansevinc.com)
 -   💼 LinkedIn: [linkedin.com/in/onurcansevinc](https://www.linkedin.com/in/onurcansevinc)
 
 ---
